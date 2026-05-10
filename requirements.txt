@@ -1,0 +1,2 @@
+pip install langchain langchain-community langchain-huggingface langchain-google-genai langchain-text-splitters sentence-transformers "uvicorn[standard]" fastapi streamlit requests
+
